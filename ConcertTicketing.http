@@ -1,0 +1,6 @@
+@ConcertTicketing_HostAddress = http://localhost:5031
+
+GET {{ConcertTicketing_HostAddress}}/api/auth/login
+Accept: application/json
+
+###
